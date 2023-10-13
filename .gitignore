@@ -1,0 +1,10 @@
+.DS_Store
+
+.sass-cache/
+.vscode/
+dev/
+node_modules/
+
+package-lock.json
+style.css.map
+style_info.txt
